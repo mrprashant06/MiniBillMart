@@ -8,7 +8,7 @@ The goal is to show how Mini Bill Mart can display party-wise monthly grocery su
 
 - Select a billing party/customer.
 - Load that party's regular monthly grocery products from sample offline data.
-- Show old monthly grocery products in `Mini Bill Mart Reorder Live`.
+- Show old monthly grocery products.
 - Add selected suggested quantity into the invoice grid.
 - Add all due monthly items together.
 - Skip an item for this month.
