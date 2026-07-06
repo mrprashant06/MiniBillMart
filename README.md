@@ -1,10 +1,10 @@
-# Mini Bill Mart
+# Mini Bill Mart.....
 
 This is a small C# Windows Forms grocery billing project for supermarket monthly reorder suggestions.
 
 The goal is to show how Mini Bill Mart can display party-wise monthly grocery suggestions while a bill is being prepared.
 
-## What Mini Bill Mart Shows
+## What Mini Bill Mart Shows...........
 
 - Select a billing party/customer.
 - Load that party's regular monthly grocery products from sample offline data.
@@ -15,14 +15,14 @@ The goal is to show how Mini Bill Mart can display party-wise monthly grocery su
 - Show a simple live item preview.
 - Keep customer-safe logic: no purchase rate, no margin, no supplier data.
 
-## Technology
+## Technology...............
 
 - C#
 - .NET 9
 - Windows Forms
 - Offline in-memory Delhi/Gurugram grocery sample data
 
-## How To Run
+## How To Run.........
 
 Open PowerShell in this folder and run:
 
@@ -36,7 +36,7 @@ Or build only:
 dotnet build
 ```
 
-## Main Learning Files
+## Main Learning Files.......
 
 `Program.cs`
 
